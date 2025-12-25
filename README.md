@@ -16,6 +16,6 @@ This repository explores Quantum Signal Processing (QSP) applied to audio signal
 
 ## Requirements
 
-- Python 3.x  
-- Qiskit  
+- Python Python 3.13.5 
+- Qiskit 1.4.1  
 - Quantum Audio Package (QAP)
